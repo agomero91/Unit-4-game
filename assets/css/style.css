@@ -1,0 +1,20 @@
+#btnRandom {
+    background-color: DodgerBlue;
+    border: none;
+    color: white;
+    padding: 12px 16px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#page-top {
+    background-image: url('https://thumbs.gfycat.com/DapperBrownBassethound-max-1mb.gif');
+    background-size: 2500px;
+    height: 100vh;
+    padding: 0;
+    margin: 50;
+}
+
+.container.column:hover {
+    background-color: black;
+}
